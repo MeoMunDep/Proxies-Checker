@@ -39,21 +39,21 @@ socks4://user:password@host:port
 socks5://user:password@host:port
 ```
 
-### 2. `valid_proxies.txt` - Valid proxies will be here.
+### 2. `valid_proxies.xlsx` - Valid proxies will be here.
 
-```txt
+```xlsx
 
 ```
 
-### 1. `invalid_proxies.txt` - Invalid proxies will be.
+### 1. `invalid_proxies.xlsx` - Invalid proxies will be.
 
-```txt
+```xlsx
 
 ```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd proxies_checker-main/proxies_checker/dist; py 1.py` or `cd proxies_checker-main/proxies_checker/dist; py3 1.py` or `cd proxies_checker-main/proxies_checker/dist; python 1.py` or `cd proxies_checker-main/proxies_checker/dist; python3 1.py`
+> To run the bot, use the following command: `cd proxies_checker-main/proxies_checker/dist; py bot.py` or `cd proxies_checker-main/proxies_checker/dist; py3 bot.py` or `cd proxies_checker-main/proxies_checker/dist; python bot.py` or `cd proxies_checker-main/proxies_checker/dist; python3 bot.py`
 
 🎇Enjoy!
