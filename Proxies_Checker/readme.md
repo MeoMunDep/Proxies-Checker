@@ -45,9 +45,15 @@ socks5://user:password@host:port
 
 ```
 
-### 1. `invalid_proxies.xlsx` - Invalid proxies will be.
+### 3. `invalid_proxies.xlsx` - Invalid proxies will be here.
 
 ```xlsx
+
+```
+
+### 3. `new_proxies.xlsx` - New list of valid proxies will be here.
+
+```txt
 
 ```
 
