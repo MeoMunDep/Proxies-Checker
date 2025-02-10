@@ -1,11 +1,54 @@
-	
-# Disclaimer
+📞 Contact
 
-This project includes code that is related to encryption. By using this code, you acknowledge the following:
 
-- The encryption methods and algorithms implemented here are provided for educational purposes only. 
-- The author does not take any responsibility for any misuse or unintended consequences that may arise from the use of this code.
-- It is your responsibility to ensure that you understand the implications of using encryption and to comply with all applicable laws and regulations in your jurisdiction.
-- Always conduct thorough testing and validation of any encryption code before deploying it in a production environment.
+> If you encounter any issues or have questions, feel free to reach out:
 
-Use this code at your own risk.
+- Contact: [Link](t.me/MeoMunDep)
+- Group: [Link](t.me/KeoAirDropFreeNe)
+- Channel: [Link](t.me/KeoAirDropFreeNee)
+
+
+## 🚀 Getting Started
+
+To get started with the bot, follow these steps:
+
+
+1. **Prepare Configuration Files:**
+
+   > You'll need to set up a few configuration files for the bot to work properly.
+
+## 📁 Configuration Files
+
+### 1. `proxies.txt`
+
+```txt
+http://user:password@host:port
+https://user:password@host:port
+socks4://user:password@host:port
+socks5://user:password@host:port
+```
+
+### 2. `valid_proxies.xlsx` - Valid proxies will be here.
+
+```xlsx
+
+```
+
+### 3. `invalid_proxies.xlsx` - Invalid proxies will be here.
+
+```xlsx
+
+```
+
+### 3. `new_proxies.xlsx` - New list of valid proxies will be here.
+
+```txt
+
+```
+
+💡 Usage:
+
+> You need to `cd` to the file after extract it
+> To run the bot, use the following command: `cd proxies_checker-main/proxies_checker; ./meomundep.exe`
+
+🎇Enjoy!
