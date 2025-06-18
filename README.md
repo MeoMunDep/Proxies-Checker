@@ -67,6 +67,11 @@ pip install -r requirements.txt
 
 ```bash
 cd path/to/proxies_checker
+```
+```bash
+chmod +x run.sh
+```
+```bash
 python3 meomundep.py
 ```
 
