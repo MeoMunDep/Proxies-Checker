@@ -1,3 +1,7 @@
+# 🧪 MeoMunDep Proxy Checker
+
+A simple async Python tool to check and filter working proxies. Supports HTTP, HTTPS, SOCKS4, SOCKS5 with or without authentication.
+
 ## 🚀 Getting Started
 
 To get started with the proxy checker bot, follow these steps:
