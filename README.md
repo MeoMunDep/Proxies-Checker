@@ -14,14 +14,13 @@
 
 To get started with the bot, follow these steps:
 
-### 1. **Prepare Configuration Files:**
+### 1. **Prepare Configuration Files**
 
 > You'll need to set up a few configuration files for the bot to work properly.
 
 ## 📁 Configuration Files
 
 ### 1. `proxies.txt`
-
 
 - [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
 
@@ -36,53 +35,40 @@ socks4://user:pass@host:port
 socks5://user:pass@host:port
 ```
 
-### 2. `valid_proxies.xlsx` - Valid proxies will be here.
+### 2. `valid_proxies.xlsx` — Valid proxies will be saved here.
 
-```xlsx
+### 3. `invalid_proxies.xlsx` — Invalid proxies will be saved here.
 
-```
-
-### 3. `invalid_proxies.xlsx` - Invalid proxies will be here.
-
-```xlsx
-
-```
-
-### 4. `new_proxies.xlsx` - New list of valid proxies will be here.
-
-```txt
-
-```
+### 4. `new_proxies.xlsx` — New valid proxies list will be updated here.
 
 ---
 
-### 💡 Usage:
+## 💡 Usage
 
-> **For Linux/macOS users**: You need to open the terminal and navigate to the folder after extracting the files. To run the bot, use the following commands:
+> **For Linux/macOS users:**
 
-1. Open a terminal.
-2. `cd` into the folder where you extracted the bot.
-   
-   ```bash
-   cd path/to/proxies_checker-main/proxies_checker
-   ```
+1. Open your terminal.
+2. Navigate to the folder where the script is located:
 
-3. Make the bot executable:
+```bash
+cd path/to/proxies_checker
+```
 
-   ```bash
-   chmod +x meomundep.exe
-   ```
+3. Run the Python script:
 
-4. Run the bot:
+```bash
+python3 meomundep.py
+```
 
-   ```bash
-   ./meomundep.exe
-   ```
+> **For Windows users:**
 
-> **For Windows users**: Use the usual method by double-clicking `meomundep.exe` after extracting the files.
+1. Make sure you have Python installed: [Download Python](https://www.python.org/downloads/windows/)
+2. Open Command Prompt or double-click `run.bat` (if provided), or run manually:
+
+```cmd
+python meomundep.py
+```
 
 ---
 
 🎇 **Enjoy!**
-
----
