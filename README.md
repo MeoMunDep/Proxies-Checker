@@ -12,17 +12,15 @@
 
 ## 🚀 Getting Started
 
-To get started with the bot, follow these steps:
+To get started with the proxy checker bot, follow these steps:
 
-### 1. **Prepare Configuration Files**
+---
 
-> You'll need to set up a few configuration files for the bot to work properly.
+### 📁 Configuration Files
 
-## 📁 Configuration Files
+1. `proxies.txt`
 
-### 1. `proxies.txt`
-
-- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
+   > Proxy list format (you can get from [Webshare](https://www.webshare.io/?referral_code=4l5kb3glsce7)):
 
 ```txt
 http://host:port
@@ -35,40 +33,64 @@ socks4://user:pass@host:port
 socks5://user:pass@host:port
 ```
 
-### 2. `valid_proxies.xlsx` — Valid proxies will be saved here.
-
-### 3. `invalid_proxies.xlsx` — Invalid proxies will be saved here.
-
-### 4. `new_proxies.xlsx` — New valid proxies list will be updated here.
+2. `valid_proxies.xlsx` — Valid proxies will be saved here.
+3. `invalid_proxies.xlsx` — Invalid proxies will be saved here.
+4. `new_proxies.xlsx` — New filtered proxies will be updated here.
 
 ---
 
-## 💡 Usage
+## 💡 Installation Guide
 
-> **For Linux/macOS users:**
+### ✅ Step 1: Install Python 3
 
-1. Open your terminal.
-2. Navigate to the folder where the script is located:
+#### For **Windows**:
+
+- Download from: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+- During installation, **check the box** “Add Python to PATH”.
+
+#### For **macOS** (if Python 3 is missing):
+
+```bash
+brew install python
+```
+
+#### For **Ubuntu/Debian**:
+
+```bash
+sudo apt update
+sudo apt install python3 python3-pip
+```
+
+---
+
+### ✅ Step 2: Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+> Use `pip3` if needed, e.g., `pip3 install -r requirements.txt`.
+
+---
+
+## 🧠 How to Use
+
+### 🔹 For Linux/macOS:
 
 ```bash
 cd path/to/proxies_checker
-```
-
-3. Run the Python script:
-
-```bash
 python3 meomundep.py
 ```
 
-> **For Windows users:**
-
-1. Make sure you have Python installed: [Download Python](https://www.python.org/downloads/windows/)
-2. Open Command Prompt or double-click `run.bat` (if provided), or run manually:
+### 🔹 For Windows:
 
 ```cmd
+cd path\to\proxies_checker
 python meomundep.py
 ```
 
+> Or double-click `run.bat` (if provided).
+
 ---
 
-🎇 **Enjoy!**
+🎇 **Enjoy checking proxies efficiently!**
