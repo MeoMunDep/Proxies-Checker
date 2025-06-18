@@ -1,15 +1,3 @@
-📞 **Contact and Support**
-
-- **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
-- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
-- **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
-- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
-- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
-- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
-- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
-
----
-
 ## 🚀 Getting Started
 
 To get started with the proxy checker bot, follow these steps:
@@ -90,6 +78,18 @@ python meomundep.py
 ```
 
 > Or double-click `run.bat` (if provided).
+
+---
+
+📞 **Contact and Support**
+
+- **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
+- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
+- **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
+- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
+- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
+- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
+- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
 
 ---
 
