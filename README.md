@@ -2,8 +2,6 @@
 
 A simple async Python tool to check and filter working proxies. Supports HTTP, HTTPS, SOCKS4, SOCKS5 with or without authentication.
 
-> **Tip:** This README uses collapsible sections (`<details>` / `<summary>`) so long sections can be collapsed in places like GitHub.
-
 ---
 
 <details>
