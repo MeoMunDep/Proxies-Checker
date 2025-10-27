@@ -2,6 +2,13 @@
 
 A simple async Python tool to check and filter working proxies. Supports HTTP, HTTPS, SOCKS4, SOCKS5 with or without authentication.
 
+> **Tip:** This README uses collapsible sections (`<details>` / `<summary>`) so long sections can be collapsed in places like GitHub.
+
+---
+
+<details>
+<summary><strong>🚀 Getting Started</strong></summary>
+
 ## 🚀 Getting Started
 
 To get started with the proxy checker bot, follow these steps:
@@ -29,7 +36,10 @@ socks5://user:pass@host:port
 3. `invalid_proxies.xlsx` — Invalid proxies will be saved here.
 4. `new_proxies.xlsx` — New filtered proxies will be updated here.
 
----
+</details>
+
+<details>
+<summary><strong>💡 Installation Guide</strong></summary>
 
 ## 💡 Installation Guide
 
@@ -37,8 +47,8 @@ socks5://user:pass@host:port
 
 #### For **Windows**:
 
-- Download from: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
-- During installation, **check the box** “Add Python to PATH”.
+* Download from: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+* During installation, **check the box** “Add Python to PATH”.
 
 #### For **macOS** (if Python 3 is missing):
 
@@ -53,8 +63,6 @@ sudo apt update
 sudo apt install python3 python3-pip
 ```
 
----
-
 ### ✅ Step 2: Install dependencies
 
 ```bash
@@ -63,7 +71,10 @@ pip install -r requirements.txt
 
 > Use `pip3` if needed, e.g., `pip3 install -r requirements.txt`.
 
----
+</details>
+
+<details>
+<summary><strong>🧠 How to Use</strong></summary>
 
 ## 🧠 How to Use
 
@@ -84,18 +95,25 @@ python meomundep.py
 
 > Or double-click `run.bat` (if provided).
 
+</details>
+
+<details>
+<summary><strong>📞 Contact and Support</strong></summary>
+
+## 📞 Contact and Support
+
+* **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
+* **Contact for work:** [Telegram](https://t.me/MeoMunDep)
+* **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
+* **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
+* **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
+* **Instagram:** [Follow me](https://www.instagram.com/meomundep)
+* **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
+
+</details>
+
 ---
 
-📞 **Contact and Support**
+## 🎇 Enjoy checking proxies efficiently!
 
-- **Support me via Donate** [Here](https://t.me/KeoAirDropFreeNe/312/27801)
-- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
-- **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
-- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
-- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
-- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
-- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
 
----
-
-🎇 **Enjoy checking proxies efficiently!**
