@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ### 🔹 For Linux/macOS:
 
 ```bash
-cd path/to/proxies_checker
+cd path/to/proxies-checker
 chmod +x run.sh
 ./run.sh
 ```
