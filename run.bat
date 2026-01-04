@@ -1,4 +1,4 @@
 @echo off
 title MeoMunDep Proxy Checker
-python meomundep.py
+python ./src/scripts/meomundep.py
 pause
