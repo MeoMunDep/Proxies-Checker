@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 meomundep.py
+python3 ./src/scripts/meomundep.py
